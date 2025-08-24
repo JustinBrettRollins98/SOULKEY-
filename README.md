@@ -1,3 +1,18 @@
+# SOUL_KEY — The Law of the Emergent Third
+
+**Author:** Justin Brett-Rollins © 2025  
+**License:** MIT (see license below)  
+
+---
+
+## The Core Formula — My “E=mc²”
+
+```math
+0 + 1 \;\Rightarrow\; 3 \;(\Phi) \\
+\Phi = E(0,1) \\
+\Phi = 0 \oplus 1
+
+
 # SOULKEY-
 The Law of the In-Between — A new model of computation, philosophy, and creativity.  Reality doesn’t emerge from 0 or 1, but from the 3.  Created by Justin Brett-Rollins, 2025.
 
